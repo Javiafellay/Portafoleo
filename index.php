@@ -30,11 +30,27 @@ Tengo mucho para aportar, manejos de varias tecnologías nuevas, manejo de vario
 </div><!--IMAGEN-->
 </div><!--Contenedor-info-->
 
+<h2 class="titulo-galeria">Algunos Proyectos Realizados</h2>
+
+<div class="sy-box pictures-slider">
+
+<ul id="pictures-demo">
+	<li title="This is caption 1 <a href='#link'>Even with links!</a>">
+	<img src="img/imagen1.PNG" alt="demo1_1">
+	</li>
+	<li title="This is caption 2">
+	<img src="img/imagen2.PNG"  alt="demo1_2">
+	</li>
+
+</ul>
+	
+</div><!--Contenedora de Imagen-->
+
 
 <div class="newsletter parallax">
   <div class="contenido contenedor">
-    <p>Tiene una Duda o Consulta</p>
-    <h3>Javier Martinez Guanez</h3>
+    <p class="newsle">Tiene una Duda o Consulta</p>
+    <h3 class="javi">Javier Martinez Guanez</h3>
     <a href="https://wa.me/+5950972458399?text=Buenas!%20vimos%20tu%20página%20portafóleo" class="button transparente">Contáctame</a>
   </div><!--CONTENIDO-->
 </div><!--NEWSLETTER PARALLAX-->

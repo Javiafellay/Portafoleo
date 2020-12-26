@@ -45,6 +45,12 @@ body {
 header{
 	height: 100vh;
 }
+p.newsle{
+    color: #fe4918;
+}
+h3.javi{
+    color: #fe4918 !important;
+}
 
 img {
 	max-width: 100%; /*Imagenes responsivas*/
@@ -150,7 +156,7 @@ div.barra{
     width: 100%;
     top: 0;
     left: 0;
-    z-index: 2;
+    z-index: 40;
 }
 div.logo{
     width: 80%;
@@ -271,6 +277,13 @@ div.menu-movil span{
         width: 91%;
     }
 }
+
+.titulo-galeria {
+    text-align: center;
+    color: #fe4918;
+    margin: 50px 0px 50px 0px;
+}
+
 /**NEWSLETTER**/
 
 div.newsletter{
@@ -494,3 +507,6 @@ h2 .idiomas{
     }
 }
 
+.sy-box pictures-slider {
+    position: relative;
+}
