@@ -510,3 +510,79 @@ h2 .idiomas{
 .sy-box pictures-slider {
     position: relative;
 }
+
+.contenedor-hoja {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;/*Separacion entre elementos*/
+    margin: 50px 0px 0px 1px;
+}
+/**Seccion Sobre Mí**/
+.sobre-mi{
+    text-align: center;
+    color: #fe4918;
+    margin-top: 10px;
+}
+
+.principal {
+    background-color: #2d2525;
+    margin-bottom: 20px;
+}
+.javi-name{
+    margin-top: 10px;
+    text-align: center;
+    color:#fe4918;
+}
+.parrafo-sobre{
+    color:white;
+    text-align: center;
+}
+.parrafo-sobre.princi {
+    width: 92%;
+}
+.parrafo-sobre.proyect {
+    color: black;
+}
+.contacto-sobre {
+    text-align: center;
+    color: #fe4918;
+}
+.contacto-sobre.acerca {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.parrafo-contacto{
+    text-align: center;
+    color: white;
+}
+.imagen-principal {
+    max-width: 90%;
+    margin-top: 15px;
+    margin-left: 6px;
+}
+@media only screen and (min-width: 768px){
+    .imagen-principal {
+    max-width: 100%;
+    margin-top: 15px;
+    margin-left: 180px;
+}
+}
+ul.ul {
+    font-size: 1em;
+}
+
+.lista-habilidades{
+    font-size: 1.8em;
+    color: white;
+    text-align: center;
+}
+.proyecto{
+    color: black;
+    text-align: center;
+}
+.visitar {
+    color: #fe4918;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 1.4em;
+}

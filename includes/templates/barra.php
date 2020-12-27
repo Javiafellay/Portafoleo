@@ -12,7 +12,7 @@
 <nav class="navegacion-principal clearfix">
 <a href="conocimientos.php">Conocimientos</a>
 <a href="https://github.com/Javiafellay">Trabajos</a>
-<a href="conocimientos.php">Sobre mí</a>
+<a href="sobremi.php">Sobre mí</a>
 <a href="https://wa.me/+5950972458399?text=Buenas!%20vimos%20tu%20página%20portafóleo">Contactame</a>
 </nav>
 
